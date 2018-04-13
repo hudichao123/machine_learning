@@ -14,7 +14,7 @@ ex6: Support Vector Machines
 
 ex7: K-means clustering and PCA
 
-ex8: Anomally Detection and Recommender Systems
+ex8: Anormaly Detection and Recommender Systems
 
 To see details of this projects, you can simply open ex#.m in Matlab (# is the index of the exercise projects)
 and keep pressing Enter to see the results.
