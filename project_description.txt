@@ -1,0 +1,23 @@
+This repo contains eight machine learning exercise projects in Matlab.
+
+ex1: Linear Regression
+
+ex2: Logistic Regression
+
+ex3: Multi-class Classification and Neural Networks
+
+ex4: Neural Network Learning
+
+ex5: Regularized Linear Regression and Bias/Variance
+
+ex6: Support Vector Machines
+
+ex7: K-means clustering and PCA
+
+ex8: Anomally Detection and Recommender Systems
+
+To see details of this projects, you can simply open ex#.m in Matlab (# is the index of the exercise projects)
+and keep pressing Enter to see the results.
+
+
+
